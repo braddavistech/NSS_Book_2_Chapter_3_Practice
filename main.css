@@ -1,0 +1,20 @@
+.basicInfo{
+  text-align: center;
+  margin: 3%;
+  background-color: grey;
+  padding: 1%;
+}
+.committees{
+  text-align: center;
+  margin: 5%;
+  background-color: grey;
+  padding: .25%;
+
+}
+
+.legislationLinks{
+  text-align: center;
+  margin: 5%;
+  background-color: grey;
+  padding: .25%;
+}
